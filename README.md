@@ -3,12 +3,8 @@
 ### `👋 a line of code a day keeps me alive 🍀`
 
 
-> connect
-  <ul>
-  <a href="https://t.me/deviyke">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="width:20px; height:20px;">
-  </a>
-  </ul>
+> connect with me on Telegram
+<a href="https://t.me/deviyke"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="width:20px; height:20px;"> </a>
 
 
 <!---
