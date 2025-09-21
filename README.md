@@ -116,15 +116,9 @@
 ### ✨ **Thanks for visiting!** ✨
 *Feel free to explore my repositories and don't hesitate to reach out!*
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=iykex&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
 
 ---
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/iykex/iykex/output/snake.svg" alt="Snake animation" />
-</div>
 
 <!---
 iykex/iykex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
