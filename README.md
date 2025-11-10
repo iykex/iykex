@@ -64,24 +64,11 @@
 
 <div align="center">
 
-<a href="https://github.com/iykex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iykex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-</a>
-<a href="https://github.com/iykex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iykex&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+![iykex's GitHub stats](https://github-readme-stats.vercel.app/api?username=iykex&show_icons=true&theme=tokyonight&hide_border=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iykex&layout=compact&theme=tokyonight&hide_border=true)
 
-<a href="https://github.com/iykex">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iykex&theme=tokyonight&hide_border=true" alt="iykex's streak"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/iykex">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iykex&theme=tokyo-night&hide_border=true&area=true" alt="iykex's github activity graph"/>
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iykex&theme=tokyonight&hide_border=true)
 
 </div>
 
