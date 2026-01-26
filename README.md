@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hello!+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%81+%F0%9F%8C%9F;Bonjour!+%F0%9F%87%AB%F0%9F%87%B7;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%F0%9F%87%B7%F0%9F%87%BA;Hola!+%F0%9F%87%AA%F0%9F%87%B8;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+%F0%9F%87%AF%F0%9F%87%B5)](https://git.io/typing-svg)
 
-### `👋 A line of code a day keeps me alive 🍀`
+### `👋 A line of code a day—progress over perfection 🍀`
 **Passionate Developer • Full Stack Engineer • Continuous Learner**
 
 ---
