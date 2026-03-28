@@ -1,113 +1,77 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hello!+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%81+%F0%9F%8C%9F;Bonjour!+%F0%9F%87%AB%F0%9F%87%B7;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%F0%9F%87%B7%F0%9F%87%BA;Hola!+%F0%9F%87%AA%F0%9F%87%B8;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+%F0%9F%87%AF%F0%9F%87%B5)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:3B82F6&height=180&section=header&text=iykex&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Engineer%20•%20Builder%20•%20Continuous%20Learner&descSize=16&descAlignY=52&descColor=d1d5db"/>
 
-### `👋 A line of code a day—progress over perfection 🍀`
-**Passionate Developer • Full Stack Engineer • Continuous Learner**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=A+line+of+code+a+day+%E2%80%94+progress+over+perfection+%F0%9F%8D%80;Passionate+Developer+%E2%80%A2+Full+Stack+Engineer;Building+scalable+apps+with+modern+tools;Always+learning+something+new+%E2%9A%A1)](https://git.io/typing-svg)
 
----
+<br>
 
-</div>
+### 👋 About Me
 
-## 🚀 About Me
+Passionate developer who believes in **continuous learning, clean architecture, and meaningful products**.  
+I enjoy working across the stack and building applications that make a difference.
 
-> Passionate developer who believes in continuous learning and improvement. I enjoy working across the stack and building meaningful applications that make a difference. Always exploring new technologies and best practices to create exceptional user experiences.
+💡 I’m especially interested in:  
+**SaaS products • scalable web apps • mobile apps • cloud infrastructure • beautiful UI**
 
----
+<br>
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
-### 💻 **Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,php,dart,python,bash,react,nextjs,tailwind,redux,nodejs,express,nestjs,laravel,graphql,mysql,firebase,docker,gcp,linux,figma,flutter,wordpress,vscode,xcode,git,github&theme=dark)](https://skillicons.dev)
 
-### 🎨 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br>
 
-### ⚡ **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### 📈 GitHub Overview
 
-### 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iykex&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&rank_icon=github" />
+&nbsp;
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iykex&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=c9d1d9" />
 
-### ☁️ **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br>
 
-### 🛠️ **Tools**
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iykex&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=333333&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b)](https://git.io/streak-stats)
 
----
+<br>
 
-## 📈 GitHub Stats
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=iykex&bg_color=00000000&color=3B82F6&line=3B82F6&point=ffffff&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Graph" />
 
-<div align="center">
+<br>
 
-![iykex's GitHub stats](https://github-readme-stats.vercel.app/api?username=iykex&show_icons=true&theme=tokyonight&hide_border=true)
+### 🎯 Current Focus
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iykex&layout=compact&theme=tokyonight&hide_border=true)
+| Focus Area | What I'm Doing |
+|---|---|
+| 🚀 Product Building | Building scalable web applications with modern frameworks |
+| 📱 Mobile Development | Developing cross-platform mobile apps with Flutter |
+| ☁️ Cloud & DevOps | Exploring cloud architecture and DevOps practices |
+| 🎨 UI/UX Craft | Crafting beautiful, accessible user interfaces |
+| 📚 Continuous Learning | Staying updated with evolving tools and best practices |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iykex&theme=tokyonight&hide_border=true)
+<br>
 
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Building scalable web applications with modern frameworks
-- 📱 Developing cross-platform mobile apps with Flutter
-- ☁️ Exploring cloud architecture and DevOps practices
-- 🎨 Crafting beautiful, accessible user interfaces
-- 📚 Continuous learning and staying updated with tech trends
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
+### 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iykex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aibenoah)
-[![Twitter(now X)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nana_vybes)
+[![Twitter/X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nana_vybes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyke.earth@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/iykex)
 
+<br>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iykex/iykex/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iykex/iykex/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/iykex/iykex/output/github-snake-dark.svg" />
+</picture>
+
+<br>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiykex&label=visitors&labelColor=%231a1a1a&countColor=%233B82F6&style=flat-square)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:3B82F6&height=120&section=footer"/>
+
 </div>
-
----
-
-<div align="center">
-
-### ✨ **Thanks for visiting!** ✨
-*Feel free to explore my repositories and don't hesitate to reach out!*
-
-</div>
-
----
-
-<!---
-iykex/iykex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
